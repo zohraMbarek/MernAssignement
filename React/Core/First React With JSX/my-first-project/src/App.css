@@ -1,0 +1,17 @@
+.App {
+  text-align: left;
+}
+h1{
+  color:red;
+}
+h2{
+color:blue;
+}
+ul{
+  font-weight: bold;
+  font-size: 14px;
+  background-color: aquamarine;
+}
+.priority{
+  color: red;
+}
