@@ -1,0 +1,46 @@
+form {
+  width: 400px;
+  margin: auto;
+}
+
+input{
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+label {
+  width: 100px;
+  text-align: left;
+  color: grey;
+}
+.ligne
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.App {
+  text-align: center;
+ }
+ p{
+  width: 500px;
+  text-align: left;
+ }
+.res{
+  width: 400px;
+}
+.result{
+  width: 400px;
+  margin: auto;
+}
+
+
+
+
+
+
+
