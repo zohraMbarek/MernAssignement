@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  margin: 10px;
+  align-items: center;
+}
+
+.tab {
+  text-align: center;
+  display: inline-block;
+  margin: 2px;
+  padding: 10px 20px;
+}
+.boxstyle
+{
+  border: 1px solid grey;
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+
+}
+
+.selectedTab {
+  color: white;
+  background-color: black;
+  border: 2px solid black;
+  
+}
+
+.nonSelectedTab {
+  color: black;
+  background-color: white;
+  border: 2px solid #bbbbbb;
+  
+  
+}
