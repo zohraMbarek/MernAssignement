@@ -1,0 +1,61 @@
+.App {
+  margin: 20px 500px;
+}
+.checked{
+text-decoration: line-through;
+font-size: 14px;
+}
+.nonchecked{
+  font-size: 14px;
+}
+.main
+{
+  display: flex;
+}
+.deletestyle
+{
+  width: 800px;
+  height: 500px;
+}
+.del{
+  width: 50px;
+  height: 100px;
+}
+.tasks{
+  width: 350px;
+  height: 500px;
+  border: 3px solid black;
+}
+.addstyle{
+  width: 200px;
+  height: 80px;
+  display: block;
+  margin: 20px;
+}
+.addbtn{
+  margin: 10px;
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  width: 50px;
+  height: 30px;
+}
+input{
+  background-color: rgb(239,239,239);
+  width: 200px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+}
+.delbtn{
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  border: none;
+  width: 100px;
+  height: 50px;
+}
