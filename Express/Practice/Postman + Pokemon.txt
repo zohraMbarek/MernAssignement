@@ -1,0 +1,14 @@
+*Request1:pokemon with an id of 8:
+url: https://pokeapi.co/api/v2/pokemon/8
+
+*Request2:pokemon named butterfree
+url: https://pokeapi.co/api/v2/pokemon/butterfree
+
+*Request3:pokemon with an id of 15:
+url: https://pokeapi.co/api/v2/pokemon/15
+
+*Request4:pokemon named beedrill:
+url: https://pokeapi.co/api/v2/pokemon/beedrill
+
+*Request5:pokemon named weedle:
+url: https://pokeapi.co/api/v2/pokemon/weedle
