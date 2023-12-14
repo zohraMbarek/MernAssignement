@@ -1,0 +1,19 @@
+
+
+.container{
+    width: 900px;
+    margin: 20px  auto;
+  
+  }
+.errortext{
+    color: red;
+    font-weight: bold;
+}
+.activepage{
+font-weight: bold;
+font-size: large;
+}
+.inactivepage{
+  font-size: medium;
+
+}
